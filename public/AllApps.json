@@ -1,0 +1,365 @@
+[
+  {
+    "id": 1,
+    "image": "https://cdn-icons-png.flaticon.com/512/733/733547.png",
+    "title": "Facebook",
+    "companyName": "Meta Platforms",
+    "description": "Facebook is one of the world’s most popular social media platforms, designed to help people stay connected, share meaningful moments, and build communities. With billions of users worldwide, Facebook brings together friends, families, and organizations in a single digital ecosystem. Users can post updates, upload photos and videos, join interest-based groups, and follow pages that reflect their hobbies or beliefs. Whether you’re keeping up with old school friends, exploring local events, or discovering trending topics, Facebook creates a personalized social experience tailored to your interests.\n\nThe app provides powerful tools for communication and self-expression. Through Stories, Reels, and Live Videos, users can share moments instantly and interact in real-time. Businesses and creators can manage pages, run advertisements, and analyze audience engagement using built-in insights. The Marketplace feature allows seamless local buying and selling, while Facebook Watch gives access to a global library of videos, series, and live streams.\n\nPrivacy and security are also at the forefront of the Facebook experience. Advanced controls help users manage who can see their posts, while robust reporting and verification systems ensure a safer community. Integration with Messenger enables instant communication across mobile and desktop devices, complete with voice and video calling.\n\nFrom connecting communities during global events to supporting small businesses and fostering social movements, Facebook remains a cornerstone of digital interaction. It’s not just an app—it’s a social infrastructure that evolves with you, helping you share your world, stay informed, and build meaningful relationships across borders.",
+    "size": 157,
+    "reviews": 10000000,
+    "ratingAvg": 4.2,
+    "downloads": 10000000000,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 1200000 },
+      { "name": "4 star", "count": 3500000 },
+      { "name": "5 star", "count": 5000000 }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "https://cdn-icons-png.flaticon.com/512/733/733585.png",
+    "title": "WhatsApp",
+    "companyName": "Meta Platforms",
+    "description": "WhatsApp is a simple, reliable, and private messaging app that connects more than two billion people around the globe. Developed by Meta Platforms, WhatsApp enables users to send text messages, make voice and video calls, share documents, and express themselves with photos, videos, and voice notes—all for free, using an internet connection instead of SMS fees. It is trusted worldwide for its speed, security, and intuitive design.\n\nOne of WhatsApp’s biggest strengths is its focus on privacy. Every conversation is protected by end-to-end encryption, ensuring that only you and the person you’re communicating with can read or listen to what’s sent. Even WhatsApp itself can’t access your messages. This commitment to privacy has made it the go-to communication tool for families, friends, and professionals alike.\n\nWhatsApp also simplifies global communication. Group chats make it easy to organize family conversations, plan trips, or collaborate with teammates. The app supports multimedia sharing, allowing users to exchange documents, PDFs, spreadsheets, and contacts. Its voice and video calling features deliver crystal-clear quality, even on slower networks.\n\nThe app’s business version, WhatsApp Business, empowers small companies to connect with customers, provide support, and showcase products—all within a trusted messaging environment. Regular updates bring new features such as disappearing messages, custom wallpapers, and linked devices for using the same account on multiple platforms.\n\nWhatsApp isn’t just a messaging tool—it’s a bridge between people. Whether you’re checking in with loved ones or managing an international business conversation, WhatsApp delivers simplicity, speed, and privacy at every step.",
+    "size": 120,
+    "reviews": 7000000,
+    "ratingAvg": 4.6,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "5 star", "count": 3500000 }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "https://cdn-icons-png.flaticon.com/512/733/733558.png",
+    "title": "Instagram",
+    "companyName": "Meta Platforms",
+    "description": "Instagram is a vibrant social media platform that celebrates creativity, connection, and visual storytelling. Originally launched as a simple photo-sharing app, Instagram has evolved into a global community where individuals, creators, and brands express themselves through photos, videos, and Reels. From sharing daily moments to launching businesses, Instagram empowers users to turn their passions into impact.\n\nAt its heart, Instagram revolves around visuals. The feed allows you to explore captivating photos, carousels, and short-form videos, while Stories let users share moments that disappear after 24 hours. Reels offers an immersive space for short creative clips set to music, helping creators reach millions of viewers worldwide. With direct messaging, users can privately chat, share content, or start video calls, making communication seamless.\n\nInstagram also supports small businesses and creators with professional tools like Insights, Shopping, and Ads Manager. You can turn followers into customers by setting up digital storefronts directly in your profile. The app’s algorithm learns your preferences, curating a personalized Explore page to match your interests, whether it’s art, fitness, fashion, or travel.\n\nThe platform values safety and inclusivity, providing options to hide sensitive content, manage comments, and filter messages. Constant innovation keeps the experience dynamic, blending entertainment and connection effortlessly.\n\nInstagram continues to redefine modern social networking. It’s where global trends start, communities form, and ideas come to life—all through the lens of your camera. Whether you’re here to share your journey or discover someone else’s, Instagram is your window to a world of inspiration.",
+    "size": 150,
+    "reviews": 8000000,
+    "ratingAvg": 4.5,
+    "downloads": 10000000000,
+    "ratings": [
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 1000000 },
+      { "name": "4 star", "count": 3200000 },
+      { "name": "5 star", "count": 3500000 }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI-h-e2hgz8mwGfCt4gvj4IgMG_wAUolVM6w&s",
+    "title": "Twitter",
+    "companyName": "Twitter, Inc.",
+    "description": "Twitter is the digital heartbeat of global conversation, enabling people to share ideas, opinions, and news in real time. With millions of tweets posted daily, it’s where the world discusses what’s happening right now. Twitter empowers individuals, journalists, organizations, and creators to express themselves through short posts, images, polls, and live audio spaces.\n\nKnown for its immediacy, Twitter helps users follow breaking news, trending hashtags, and emerging movements from anywhere in the world. The platform thrives on brevity, with concise messages that spark dialogue, awareness, and collaboration. Whether you’re sharing personal thoughts, following your favorite celebrities, or tracking live events, Twitter keeps you connected to the pulse of the planet.\n\nBeyond text, Twitter offers features such as Spaces—an audio chatroom for real-time discussions—and Communities, where people with shared interests gather. Verified accounts, custom lists, and topic subscriptions make it easy to curate your timeline and stay informed without information overload.\n\nFor businesses, Twitter doubles as a customer engagement powerhouse. Brands use it to handle support queries, launch products, and participate in cultural conversations. Its advanced analytics and advertising tools allow precise audience targeting, driving measurable impact.\n\nTwitter stands as a platform for freedom of expression and discovery. It breaks barriers, amplifies voices, and shapes public discourse—one tweet at a time. Whether it’s a meme, a movement, or a milestone, Twitter is where it all begins.",
+    "size": 88,
+    "reviews": 4300000,
+    "ratingAvg": 4.3,
+    "downloads": 1500000000,
+    "ratings": [
+      { "name": "1 star", "count": 250000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 500000 },
+      { "name": "4 star", "count": 1800000 },
+      { "name": "5 star", "count": 1800000 }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "https://cdn-icons-png.flaticon.com/512/174/174857.png",
+    "title": "LinkedIn",
+    "companyName": "Microsoft",
+    "description": "LinkedIn is the world’s largest professional networking platform, built to help people grow their careers, build meaningful connections, and explore new opportunities. Whether you’re a student, a job seeker, or an industry expert, LinkedIn connects you with professionals, mentors, and companies across every field imaginable.\n\nAt its core, LinkedIn enables users to create detailed profiles showcasing their skills, achievements, and experience. Recruiters and employers use it to find top talent, while individuals leverage it to network, follow industry news, and join professional groups. The platform encourages knowledge sharing through posts, articles, and newsletters, helping professionals establish authority and visibility within their niche.\n\nThe LinkedIn Learning feature provides thousands of expert-led online courses covering business, technology, design, and leadership—empowering users to upskill at their own pace. Companies use LinkedIn Pages to highlight culture, advertise roles, and engage with potential candidates.\n\nLinkedIn’s recommendation and endorsement system enhances credibility, while job alerts and smart recommendations streamline the application process. The feed is designed to balance career insights with motivational stories, giving users a blend of inspiration and opportunity.\n\nFrom entry-level graduates to Fortune 500 executives, LinkedIn bridges the gap between talent and opportunity. It’s not just a networking app—it’s a career ecosystem that nurtures growth, connection, and lifelong learning in a professional, trusted environment.",
+    "size": 85,
+    "reviews": 3200000,
+    "ratingAvg": 4.4,
+    "downloads": 800000000,
+    "ratings": [
+      { "name": "1 star", "count": 120000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 400000 },
+      { "name": "4 star", "count": 1200000 },
+      { "name": "5 star", "count": 1300000 }
+    ]
+  },
+
+  {
+    "id": 6,
+    "image": "https://cdn-icons-png.flaticon.com/512/145/145808.png",
+    "title": "Pinterest",
+    "companyName": "Pinterest, Inc.",
+    "description": "Pinterest is your digital inspiration board—a place where ideas come to life. Whether you’re planning a dream wedding, designing your living room, exploring travel destinations, or discovering new recipes, Pinterest helps you visualize and organize every creative thought. With billions of pins shared by users across the world, the app transforms imagination into action, allowing you to collect and curate everything that inspires you.\n\nThe app’s interface is simple yet powerful. You can save Pins (images, videos, or links) to themed boards, making it easy to organize your interests in one place. Each Pin leads to useful content—tutorials, product links, DIY guides, or blogs—so you can learn or shop directly from what inspires you. The smart search feature uses visual discovery, meaning you can upload a photo to find similar ideas instantly.\n\nPinterest isn’t just for individuals—it’s a creative powerhouse for brands and businesses. Companies use it to showcase products, drive website traffic, and build loyal audiences through visual storytelling. From fashion and beauty to tech and interior design, every industry finds its niche on Pinterest. The app’s ad tools enable brands to reach users actively searching for inspiration, making it one of the most conversion-friendly social platforms.\n\nFor creators, Pinterest offers a global audience eager for fresh ideas. Idea Pins allow for short videos and step-by-step tutorials, giving you a platform to share your creativity and grow your following. Personalized recommendations based on your interests ensure that your feed always feels relevant and inspiring.\n\nPinterest is where creativity meets possibility. It’s not just about collecting ideas—it’s about turning them into reality. Whatever your passion, Pinterest helps you discover, design, and do.",
+    "size": 110,
+    "reviews": 2100000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 90000 },
+      { "name": "2 star", "count": 120000 },
+      { "name": "3 star", "count": 300000 },
+      { "name": "4 star", "count": 700000 },
+      { "name": "5 star", "count": 890000 }
+    ]
+  },
+  {
+    "id": 7,
+    "image": "https://cdn-icons-png.flaticon.com/512/3670/3670226.png",
+    "title": "Reddit",
+    "companyName": "Reddit, Inc.",
+    "description": "Reddit is the home of endless conversations, where communities from every corner of the internet gather to share, discuss, and discover. Known as the ‘front page of the internet,’ Reddit is built around millions of user-created communities called subreddits—each dedicated to a specific topic, from technology and science to humor, fitness, and personal stories. Whether you want to dive deep into niche interests or join global discussions, Reddit offers a space where every voice matters.\n\nThe app’s layout focuses on user-generated content—posts, comments, polls, and links that invite interaction and debate. Users can upvote or downvote posts, helping the most interesting or insightful content rise to the top. Reddit thrives on authenticity and diversity of thought, making it a unique blend of entertainment, learning, and real-time information.\n\nReddit is also a hub for breaking news and firsthand experiences. From live event threads to expert AMAs (Ask Me Anything) sessions with celebrities, scientists, and public figures, users gain perspectives they won’t find anywhere else. Communities are self-moderated, ensuring relevant, respectful discussions.\n\nFor creators and businesses, Reddit offers powerful ad tools that reach highly engaged audiences who are already invested in specific topics. The platform’s conversational tone allows brands to build genuine connections instead of generic promotions.\n\nWhether you’re here to laugh, learn, or connect, Reddit gives you the freedom to explore what truly interests you. It’s not just another social network—it’s a living ecosystem of ideas shaped by people like you.",
+    "size": 90,
+    "reviews": 2800000,
+    "ratingAvg": 4.4,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 100000 },
+      { "name": "2 star", "count": 130000 },
+      { "name": "3 star", "count": 300000 },
+      { "name": "4 star", "count": 900000 },
+      { "name": "5 star", "count": 1370000 }
+    ]
+  },
+  {
+    "id": 8,
+    "image": "https://cdn-icons-png.flaticon.com/512/1384/1384060.png",
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "description": "YouTube is the world’s leading video-sharing platform, connecting billions of people through entertainment, education, and expression. From music videos and vlogs to tutorials, reviews, and documentaries, YouTube hosts a universe of content that caters to every interest. Whether you’re learning a new skill, following your favorite creator, or exploring live broadcasts, YouTube turns your screen into a window to the world.\n\nThe app offers a highly personalized experience powered by Google’s advanced recommendation system. The more you watch, the smarter it gets—suggesting videos and playlists that match your preferences. Users can subscribe to channels, join memberships, and engage through likes, comments, and community posts. YouTube Shorts, the app’s short-form video feature, brings quick entertainment and viral creativity directly to your feed.\n\nCreators are at the heart of YouTube. The YouTube Partner Program allows them to earn revenue through ads, memberships, and Super Chats. The platform’s analytics tools give creators insight into audience behavior, helping them grow their channels strategically. Educational institutions, musicians, brands, and independent filmmakers all rely on YouTube to share their work with a global audience.\n\nWith offline downloads, dark mode, and smart streaming quality, YouTube ensures smooth viewing even on limited connections. YouTube Premium enhances the experience by removing ads, enabling background play, and unlocking exclusive content.\n\nFrom breaking news to trending memes, YouTube shapes modern culture. It’s more than just videos—it’s a global stage for creativity, knowledge, and storytelling that never sleeps.",
+    "size": 160,
+    "reviews": 18000000,
+    "ratingAvg": 4.5,
+    "downloads": 10000000000,
+    "ratings": [
+      { "name": "1 star", "count": 900000 },
+      { "name": "2 star", "count": 700000 },
+      { "name": "3 star", "count": 1300000 },
+      { "name": "4 star", "count": 4200000 },
+      { "name": "5 star", "count": 8200000 }
+    ]
+  },
+  {
+    "id": 9,
+    "image": "https://cdn.pixabay.com/photo/2016/04/28/23/55/snapchat-1360003_1280.jpg",
+    "title": "Snapchat",
+    "companyName": "Snap Inc.",
+    "description": "Snapchat is the fun, fast, and creative way to share the moment with friends and the world. Built around instant communication and visual storytelling, Snapchat reimagines how people connect through photos and short videos called Snaps. With its signature disappearing messages and playful filters, it has become one of the most innovative social platforms of the modern era.\n\nThe app opens directly to the camera, encouraging spontaneity. Users can send Snaps, chat with friends, and post Stories that disappear after 24 hours. Lenses and AR filters bring faces, places, and moments to life—turning everyday interactions into fun experiences. Snap Map allows you to see where friends are (if they choose to share), while Spotlight showcases viral short videos from creators worldwide.\n\nSnapchat also serves as a platform for discovery. Publishers and creators share original shows, news, and entertainment through the Discover tab. With Bitmoji integration, you can create your personalized avatar to express yourself more vividly in chats and snaps.\n\nSnapchat prioritizes privacy by ensuring messages vanish after they’re viewed, unless saved. Parents can manage young users’ safety with built-in Family Center tools. For creators and businesses, Snapchat Ads and Public Profiles provide exposure to millions of daily users through creative AR-driven campaigns.\n\nWith its youthful energy and focus on real moments, Snapchat transforms the way people communicate. It’s not just an app—it’s a creative playground where connection meets imagination.",
+    "size": 120,
+    "reviews": 6000000,
+    "ratingAvg": 4.3,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 2000000 },
+      { "name": "5 star", "count": 2500000 }
+    ]
+  },
+  {
+    "id": 10,
+    "image": "https://cdn-icons-png.flaticon.com/512/732/732221.png",
+    "title": "Microsoft Teams",
+    "companyName": "Microsoft",
+    "description": "Microsoft Teams is a unified communication and collaboration platform that brings together chat, video meetings, file sharing, and productivity tools—all in one place. Designed for modern work and learning environments, Teams helps organizations stay connected and efficient, no matter where their members are located.\n\nThe app enables seamless communication through one-on-one and group chats, video conferencing, and voice calls. Integration with Microsoft 365 allows direct access to Word, Excel, PowerPoint, and OneNote within the Teams workspace, eliminating the need to switch between apps. Real-time document collaboration ensures that teams can co-edit projects simultaneously, saving time and improving workflow.\n\nTeams’ robust meeting features include screen sharing, background blur, live captions, and meeting recordings. Channels and tabs organize projects by topic or department, helping teams keep communication structured. Notifications and mentions ensure important updates are never missed.\n\nFor education, Microsoft Teams supports online classrooms with assignments, grading tools, and breakout rooms—making it a hub for teachers and students. Businesses use Teams to host webinars, manage remote operations, and collaborate across time zones.\n\nSecurity is a core focus, with enterprise-grade encryption, compliance tools, and administrative controls ensuring safe data handling. The app’s cross-platform support—available on mobile, desktop, and web—ensures continuity across devices.\n\nMicrosoft Teams redefines collaboration in the digital age. It’s not just about meetings—it’s about empowering teamwork, driving innovation, and simplifying how people work together globally.",
+    "size": 230,
+    "reviews": 2500000,
+    "ratingAvg": 4.4,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 150000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 400000 },
+      { "name": "4 star", "count": 800000 },
+      { "name": "5 star", "count": 950000 }
+    ]
+  },
+  {
+    "id": 11,
+    "image": "https://cdn-icons-png.flaticon.com/512/2111/2111624.png",
+    "title": "Spotify Lite",
+    "companyName": "Spotify AB",
+    "description": "Spotify Lite brings the power of music streaming to everyone, even with limited data or storage. It’s a simplified version of Spotify that retains the essence of what makes Spotify great—access to millions of songs, podcasts, and playlists—while being optimized for speed and efficiency. Designed for users in areas with slower connections or smaller devices, Spotify Lite ensures that you can enjoy your favorite music anytime, anywhere.\n\nThe app is incredibly lightweight, taking up minimal storage space and consuming less mobile data without compromising on audio quality. Its clean and intuitive interface lets you search, play, and manage music seamlessly. You can explore curated playlists, browse by mood or genre, and discover new artists through Spotify’s powerful recommendation engine.\n\nOne of the standout features of Spotify Lite is its data control dashboard. You can set monthly data limits, track usage in real-time, and manage playback preferences—perfect for users mindful of bandwidth. The app automatically adjusts streaming quality based on your network, ensuring uninterrupted listening even on 2G or unstable connections.\n\nSpotify Lite syncs with your Spotify account, meaning all your favorite tracks, playlists, and saved songs remain accessible. It also offers offline playback for Premium users, so you can keep listening without the internet.\n\nWith its balance of performance and simplicity, Spotify Lite is ideal for mobile-first audiences, travelers, and music lovers who want a no-hassle listening experience. It’s music without limits—streamlined, smart, and made for everyone.",
+    "size": 15,
+    "reviews": 900000,
+    "ratingAvg": 4.3,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 40000 },
+      { "name": "2 star", "count": 50000 },
+      { "name": "3 star", "count": 120000 },
+      { "name": "4 star", "count": 270000 },
+      { "name": "5 star", "count": 420000 }
+    ]
+  },
+  {
+    "id": 12,
+    "image": "https://cdn-icons-png.flaticon.com/512/2111/2111646.png",
+    "title": "Telegram",
+    "companyName": "Telegram FZ-LLC",
+    "description": "Telegram is a cloud-based messaging platform built for speed, security, and freedom. Loved by millions worldwide, it combines the reliability of traditional chat apps with advanced privacy features and innovative tools for community building. Telegram’s mission is simple: to provide fast, private, and unlimited communication for everyone.\n\nWith Telegram, you can send text messages, photos, videos, voice notes, and files of any type—up to 2GB each—without worrying about storage limits. Thanks to its cloud sync, you can access your messages instantly from any device. The app’s interface is minimal yet powerful, designed to make conversations smooth and distraction-free.\n\nPrivacy is Telegram’s top priority. Secret Chats use end-to-end encryption and self-destruct timers, ensuring sensitive conversations remain truly private. You can also set auto-delete timers on any chat for extra security. Telegram doesn’t use your data for ads, and there are no hidden algorithms controlling what you see.\n\nBeyond personal messaging, Telegram excels at group communication. Supergroups support up to 200,000 members, while Channels allow creators to broadcast to unlimited audiences. Bots enhance functionality, from managing communities to integrating tools like polls, reminders, and even mini-games.\n\nTelegram’s file-sharing capabilities make it ideal for professionals, students, and creators who need reliable, unlimited cloud storage. Its open API encourages developers to build third-party tools and custom features, enriching the ecosystem.\n\nFast, flexible, and free—Telegram isn’t just a messaging app; it’s a communication revolution designed to empower users in every way possible.",
+    "size": 60,
+    "reviews": 5000000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 250000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 500000 },
+      { "name": "4 star", "count": 1400000 },
+      { "name": "5 star", "count": 2550000 }
+    ]
+  },
+  {
+    "id": 13,
+    "image": "https://cdn-icons-png.flaticon.com/512/732/732223.png",
+    "title": "Apple",
+    "companyName": "Apple Inc.",
+    "description": "Apple is one of the world’s most iconic technology companies, known for creating beautifully designed, user-friendly products and services that redefine innovation. From iPhone and iPad to Mac, Apple Watch, and Apple TV, the company’s ecosystem seamlessly connects hardware, software, and cloud services to deliver an unparalleled digital experience.\n\nThrough the App Store, Apple empowers millions of developers to distribute their apps to billions of users worldwide. iCloud keeps photos, documents, and data securely synced across devices, while FaceTime and iMessage offer private, high-quality communication. Apple’s focus on privacy and security ensures that user data remains protected, setting industry standards for digital trust.\n\nApple’s services—like Apple Music, Apple TV+, Apple Arcade, and Apple Pay—extend its ecosystem beyond devices, offering entertainment, productivity, and convenience in everyday life. The company’s design philosophy emphasizes simplicity, performance, and accessibility for everyone.\n\nWith a commitment to environmental sustainability, Apple continuously innovates to reduce its carbon footprint through recycled materials, renewable energy, and efficient manufacturing. Its devices are built to last, supported by regular software updates and world-class customer support.\n\nFrom personal creativity to professional productivity, Apple has shaped how people connect, work, and express themselves. With billions of devices in use worldwide, Apple continues to lead the digital era—pioneering the future of technology through elegance, power, and purpose.",
+    "size": 250,
+    "reviews": 4200000,
+    "ratingAvg": 4.6,
+    "downloads": 1500000000,
+    "ratings": [
+      { "name": "1 star", "count": 180000 },
+      { "name": "2 star", "count": 220000 },
+      { "name": "3 star", "count": 350000 },
+      { "name": "4 star", "count": 1200000 },
+      { "name": "5 star", "count": 2250000 }
+    ]
+  },
+
+  {
+    "id": 14,
+    "image": "https://cdn-icons-png.flaticon.com/512/3046/3046120.png",
+    "title": "TikTok",
+    "companyName": "ByteDance Ltd.",
+    "description": "TikTok is the global hub for short-form video creation and entertainment. Empowering millions of creators, it lets users express themselves through 15–60 second clips filled with creativity, humor, and emotion. Whether it’s dance challenges, educational tutorials, cooking hacks, or storytelling, TikTok gives everyone a voice—and an audience.\n\nThe app’s algorithm learns from your interactions, curating a For You page (FYP) that feels tailor-made. This endless feed of personalized content makes discovery effortless. Built-in editing tools, filters, AR effects, and soundtracks make video creation intuitive, even for beginners. You can trim, merge, and sync clips to trending sounds—all within the app.\n\nTikTok has evolved beyond entertainment—it’s a cultural engine. Trends, memes, and viral songs often start here before spreading worldwide. For brands, TikTok offers massive exposure through organic reach and creative ad formats. The Creator Marketplace connects influencers with brands, fueling partnerships and innovation.\n\nPrivacy and safety remain top priorities, with features like restricted mode, family pairing, and content filters to protect younger users. TikTok also encourages positivity through community guidelines that promote respect and creativity.\n\nFrom comedians and artists to educators and small businesses, TikTok empowers everyone to create impact in seconds. It’s not just an app—it’s a stage where creativity becomes culture, and anyone can go viral overnight.",
+    "size": 140,
+    "reviews": 11000000,
+    "ratingAvg": 4.4,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 600000 },
+      { "name": "2 star", "count": 800000 },
+      { "name": "3 star", "count": 1500000 },
+      { "name": "4 star", "count": 3000000 },
+      { "name": "5 star", "count": 5200000 }
+    ]
+  },
+  {
+    "id": 15,
+    "image": "https://cdn-icons-png.flaticon.com/512/5968/5968756.png",
+    "title": "Discord",
+    "companyName": "Discord Inc.",
+    "description": "Discord is a powerful communication platform designed for communities, gamers, and creators. What started as a space for gamers has evolved into a global hub for connection—bringing together people through voice, video, and text chat. Whether you’re building a study group, running a business, or hosting a fan community, Discord provides all the tools to collaborate and stay connected.\n\nThe app’s server-based structure lets you create spaces (servers) organized into topic-specific channels. You can host voice calls, video streams, or share screens instantly. With low-latency voice technology, Discord ensures crystal-clear communication, whether you’re gaming with friends or running a virtual event.\n\nCustom emojis, roles, and moderation bots give every server its own identity and structure. For creators, Discord offers Stage Channels for live discussions, Nitro subscriptions for perks, and integrations with Twitch, YouTube, and Patreon. Businesses and educators use Discord to coordinate teams, share resources, and build tight-knit digital communities.\n\nPrivacy and security features—like two-factor authentication, spam filtering, and mod tools—keep communities safe. You can join public servers to explore interests or keep things private with invite-only groups.\n\nWith over 300 million users, Discord has become more than a chat app—it’s a digital home where communities thrive. It’s where ideas grow, friendships form, and collaboration never ends.",
+    "size": 180,
+    "reviews": 2700000,
+    "ratingAvg": 4.6,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 120000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 300000 },
+      { "name": "4 star", "count": 800000 },
+      { "name": "5 star", "count": 1330000 }
+    ]
+  },
+
+  {
+    "id": 16,
+    "image": "https://img.freepik.com/premium-vector/square-zoom-logo-isolated-white-background_469489-910.jpg?semt=ais_hybrid&w=740&q=80",
+    "title": "Zoom",
+    "companyName": "Zoom Video Communications",
+    "description": "Zoom is a comprehensive video conferencing platform that enables seamless communication for personal, business, and educational purposes. It offers HD video and audio quality, screen sharing, recording, virtual backgrounds, breakout rooms, and webinar hosting capabilities. Zoom supports large meetings, cross-platform accessibility, and integration with calendars and productivity tools, making it ideal for remote work, online classes, virtual events, and global collaboration.",
+    "size": 170,
+    "reviews": 4000000,
+    "ratingAvg": 4.4,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 120000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 400000 },
+      { "name": "4 star", "count": 1300000 },
+      { "name": "5 star", "count": 2000000 }
+    ]
+  },
+  {
+    "id": 17,
+    "image": "https://i0.wp.com/www.smartprix.com/bytes/wp-content/uploads/2022/06/auto-delete-old-messages-in-gmail-img.webp?fit=1920%2C1080&ssl=1",
+    "title": "Gmail",
+    "companyName": "Google LLC",
+    "description": "Gmail is a widely used email service by Google that provides a clean interface, powerful spam filtering, and integration with other Google services. It offers 15GB of free storage, smart compose suggestions, automatic categorization of emails, and powerful search capabilities. Users can access Gmail across devices with synchronization, making it ideal for both personal and professional communication.",
+    "size": 60,
+    "reviews": 9000000,
+    "ratingAvg": 4.3,
+    "downloads": 10000000000,
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 2200000 },
+      { "name": "5 star", "count": 5300000 }
+    ]
+  },
+  {
+    "id": 18,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHPr8GWBWPWHiqUVmgS6qefhewb3ReZ0cqHw&s",
+    "title": "Netflix",
+    "companyName": "Netflix Inc.",
+    "description": "Netflix is a leading streaming service that provides on-demand access to an extensive library of movies, TV shows, documentaries, and original content. With personalized recommendations, multiple user profiles, offline downloads, and support for various devices, Netflix offers a convenient and engaging entertainment experience. Users can enjoy high-quality video and audio, subtitles in multiple languages, and seamless streaming across platforms, making it one of the most popular choices for global entertainment enthusiasts.",
+    "size": 240,
+    "reviews": 8000000,
+    "ratingAvg": 4.8,
+    "downloads": 10000000000,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 400000 },
+      { "name": "4 star", "count": 1800000 },
+      { "name": "5 star", "count": 5550000 }
+    ]
+  },
+  {
+    "id": 19,
+    "image": "https://fourthwall.com/webflow-cdn/63ff7c6ecc83f9ec7ffe916b/6785da275daaa4ac5563f21a_discord-blogroll-1655488022938.webp",
+    "title": "Discord",
+    "companyName": "Discord Inc.",
+    "description": "Discord is a versatile communication platform designed for building communities, whether for gaming, hobbies, or professional groups. It offers text channels, voice chats, video calls, and live streaming. Users can create servers with custom roles, moderation tools, and community management features. Discord also supports integrations with games, apps, and bots, providing a rich interactive experience for collaboration, events, and social interaction. Its focus on low-latency communication and high customization makes it ideal for both casual and serious communities.",
+    "size": 160,
+    "reviews": 3000000,
+    "ratingAvg": 4.7,
+    "downloads": 1500000000,
+    "ratings": [
+      { "name": "1 star", "count": 100000 },
+      { "name": "2 star", "count": 80000 },
+      { "name": "3 star", "count": 300000 },
+      { "name": "4 star", "count": 1100000 },
+      { "name": "5 star", "count": 1420000 }
+    ]
+  },
+  {
+    "id": 20,
+    "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2019/07/spotify-lite.jpg",
+    "title": "Spotify Lite",
+    "companyName": "Spotify AB",
+    "description": "Spotify Lite is a lightweight version of the popular music streaming service designed for devices with limited storage or slower internet connections. It allows users to discover, stream, and enjoy millions of songs and podcasts while using minimal data. Spotify Lite provides essential features like playlists, search, personalized recommendations, and basic playback controls. Its simplified interface ensures fast performance, easy navigation, and a smooth music listening experience without compromising core functionality.",
+    "size": 30,
+    "reviews": 1200000,
+    "ratingAvg": 4.4,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 50000 },
+      { "name": "2 star", "count": 60000 },
+      { "name": "3 star", "count": 200000 },
+      { "name": "4 star", "count": 400000 },
+      { "name": "5 star", "count": 500000 }
+    ]
+  }
+]
